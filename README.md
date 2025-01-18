@@ -1,29 +1,138 @@
 ![Shivprasad Rahulwad (1)](https://github.com/user-attachments/assets/df6f0bc7-eea1-4313-84ac-2fa89f25ece2)
 <h1 align="center">Hi 👋, I'm shivprasad rahulwad</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h3 align="center">An Android Developer in Flutter, a framework for crafting mobile apps, adept at building engaging applications that users love. Wellversed in AIML and a keen interest in leveraging AI technologies. Adept at competitive programming, constantly honing problemsolving skills. Passionate about staying ahead in the tech industry and exploring new opportunities for innovation.</h3>
+
+<h3 align="center">I am an Android Developer specializing in Flutter, a framework that allows me to craft mobile applications with seamless, engaging user experiences. With a strong background in AI/ML, I am deeply interested in leveraging the power of artificial intelligence to create smarter and more efficient solutions..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivprasadrahulwad&label=Profile%20views&color=0e75b6&style=flat" alt="shivprasadrahulwad" /> </p>
 
-- 🔭 I’m currently working on **I am currently working on a groundbreaking project aimed at enhancing the shopping experience on Instagram!**
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+## Achievement: Smart India Hackathon (SIH) December 2024 - Finals 🏆
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivprasadrahulwad](https://github.com/shivprasadrahulwad)
+### Project: SAHAB - Smart Automated Hierarchical Analysis Bot 🤖
 
-- 📫 How to reach me **work.shivprasadrahulwad@gmail.com**
+I, along with my team, reached the finals of the **Smart India Hackathon (SIH) 2024**, organized by **MHRD (Ministry of Human Resource Development)**. We developed an innovative platform aimed at providing solutions for **legal queries** ⚖️.
 
-- 📄 Know about my experiences [As an application developer specializing in Flutter with over 2+ years of experience, I have developed numerous mobile applications, honing my expertise in cross-platform software development and user interface design.](As an application developer specializing in Flutter with over 2+ years of experience, I have developed numerous mobile applications, honing my expertise in cross-platform software development and user interface design.)
+### Project Overview:
+We built a comprehensive platform designed to address legal and constitutional queries, offering information on justice laws, procedures for filing cases, criminal case sections, and court-related queries. The goal was to ensure easy and efficient access to relevant legal information for users 📰📜.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivprasadrahulwad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivprasadrahulwad/" height="30" width="40" /></a>
-<a href="https://instagram.com/shivprasad_rahulwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivprasad_rahulwad" height="30" width="40" /></a>
-</p>
+### Key Contributions:
+- Conducted in-depth **legal research** 📚 to ensure the accuracy of the information.
+- Collaborated with a **team** 🧑‍🤝‍🧑 to create a seamless, user-friendly experience for users to understand complex legal procedures and documentation 📱.
+- Focused on solving **real-world legal problems** 💡, helping users access essential legal resources effortlessly.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+This experience sharpened my **problem-solving skills** 🧠, enhanced my ability to collaborate in a **team environment** 🤝, and reinforced my passion for using technology to solve pressing real-world issues 🌍.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivprasadrahulwad&show_icons=true&locale=en&layout=compact" alt="shivprasadrahulwad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivprasadrahulwad&show_icons=true&locale=en" alt="shivprasadrahulwad" /></p>
+# Standout Projects 🌟
+
+## 1. **Farcon - Bridging the Gap Between Farmers and Consumers 🌱**
+
+One of my standout projects is **Farcon**, an innovative app that significantly reduces **farm-to-customer delivery times** from weeks to just **1-2 days**. The app delivers **fresh vegetables** at **10-20% lower prices** than market rates, making it both cost-effective and efficient.
+
+### Key Highlights:
+- **Reduced delivery time** by up to 80% 🚚.
+- Offers **farm-fresh vegetables and milk** directly from farmers to consumers 🥦🥛.
+- Farmers and customers alike have shown strong interest, with **60-65% of farmers** and **73% of customers** expressing a keen interest in the platform 📈.
+
+### Impact:
+This project has not only improved affordability and freshness but has also streamlined the **supply chain** in India, benefiting both farmers and consumers. 🌾
+
+---
+
+## 2. **SocialGo - Revolutionizing Online Dating 💬💖**
+
+**SocialGo** is a dating app that addresses the drawbacks of traditional dating platforms. Traditional apps lead to **superficial connections**, overwhelming users with endless swiping and a lack of meaningful engagement. **SocialGo** promotes **intentional connections** by facilitating **anonymous 24-hour chats** before revealing identities, allowing users to focus on deeper, more meaningful interactions.
+
+### Key Features:
+1. **Anonymous chats** for 24 hours before identity reveals 🔒.
+2. Enables users to focus on **one connection at a time** ❤️.
+3. Encourages **serendipity and discovery** over passive scrolling ✨.
+
+### College Commitment:
+- **54% of my college peers** have committed to using **SocialGo**, helping break barriers like communication gaps, shyness, and the fear of rejection 🤝.
+
+### Impact:
+By promoting **genuine connections** and reducing the influence of superficiality, **SocialGo** aims to create healthier online dating experiences 🌍.
+
+---
+
+
+### 💻 Current Focus
+
+- **Machine Learning (ML)** and **Large Language Models (LLMs)** 🤖
+- Exploring **Cloud Platforms**, **AI** technologies, and **entrepreneurial opportunities** 🌐
+- Gaining expertise in **customer acquisition strategies**, building innovative solutions using **Kafka**, **Docker**, and **DevOps** ⚙️
+- Passionate about **entrepreneurship**, business strategies, and developing impactful solutions that drive growth and efficiency 💡
+
+I am constantly exploring new opportunities to create meaningful technological solutions, improve processes, and lead projects that can have a positive impact in both tech and business domains.
+
+---
+
+## 📚 Education
+**MIT Academy of Engineering, Pune**  
+**Bachelor of Technology in Computer Engineering** — GPA: **8.1/10**  
+**Expected Graduation**: 2025
+
+---
+
+## 🚀 Key Projects
+
+### **SocialGo: Discover, Connect, and Reveal**
+- **Nov 2023 — Jan 2024**
+- **Technologies**: Flutter | Socket.io | MongoDB | Express.js | Node.js | Firebase | Cloud Services
+- **Problem**: Traditional dating apps foster superficial connections, leading to a lack of meaningful engagement and unverified users.
+- **Solution**: SocialGo encourages **intentional connections** by promoting **anonymous 24-hour chats** before identity reveals.
+
+---
+
+### **Farcon: Bridging the Gap Between Farmers and Consumers**
+- **Nov 2023 — Jan 2024**
+- **Technologies**: Flutter | MongoDB | Express.js | Node.js | Figma | Cloud Services
+- **Problem**: Vegetables take up to 7 days to reach customers, reducing freshness and increasing costs due to intermediaries.
+- **Solution**: Direct delivery from farmers to customers, providing fresh produce **15% cheaper** and reducing delivery times by up to **80%**.
+- **Key Features**:
+    - **User**: Browse products, order tracking, and payment gateway.
+    - **Admin**: Manage inventory and deliveries via map navigation.
+- **Commitment Rates**: 61% from farmers, 74% from users.
+
+---
+
+### **ShopEz: Revolutionizing Shopping for Instagram Influencers**
+- **Feb 2024 — Mar 2024**
+- **Technologies**: Flutter | MongoDB | Express.js | Node.js | Figma | Cloud Services
+- **Problem**: Instagram influencers lack inventory management and sales tracking, forcing users to visit their page each time.
+- **Solution**: ShopEz enables influencers to list products and track sales, making the shopping experience seamless.
+- **Key Features**:
+    - **User**: Browse, track orders, and engage via likes.
+    - **Admin**: Real-time inventory management, sales analysis.
+
+---
+
+## 🛠️ Skills
+- **Programming & Application Technologies**: Flutter, Dart, Express.JS, Node.JS, C++, Python, SQL, Apache Kafka, Socket.IO
+- **AI & Machine Learning**: TensorFlow, PyTorch, LLMs, NLP
+- **Frameworks & Tools**: MongoDB, MySQL, Figma, GitHub, RESTful APIs, Cloud Services
+
+---
+
+## 🌱 Currently Learning
+- **Machine Learning** and **Large Language Models (LLMs)**
+- **Cloud Platforms** and **AI Technologies**
+
+---
+
+## 💼 Experience
+
+### **E-CELL - MITAOE**
+- **Jan 2022 — Aug 2022**
+- **Role**: Led a technical team within the Entrepreneurship Cell, overseeing various projects and initiatives aimed at fostering innovation and entrepreneurial spirit.
+
+---
+
+## 📫 Contact Me
+- **Email**: [work.shivprasadrahulwad@gmail.com](mailto:work.shivprasadrahulwad@gmail.com)
+- **Portfolio**: [https://shivprasadrahulwad.github.io/portfolio/](https://shivprasadrahulwad.github.io/portfolio/)
+- **LinkedIn**: [https://www.linkedin.com/in/shivprasadrahulwad/](https://www.linkedin.com/in/shivprasadrahulwad/)
+
