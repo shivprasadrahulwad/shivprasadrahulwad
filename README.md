@@ -11,7 +11,7 @@
 
 ### Project: SAHAB - Smart Automated Hierarchical Analysis Bot 🤖
 
-I, along with my team, reached the finals of the **Smart India Hackathon (SIH) 2024**, organized by **MHRD (Ministry of Human Resource Development)**. We developed an innovative platform aimed at providing solutions for **legal queries** ⚖️.
+I, along with my team, reached the finals of the **Smart India Hackathon (SIH) 2024**, organized by **MHRD (The Ministry of Education)**. We developed an innovative platform aimed at providing solutions for **legal queries** ⚖️.
 
 ### Project Overview:
 We built a comprehensive platform designed to address legal and constitutional queries, offering information on justice laws, procedures for filing cases, criminal case sections, and court-related queries. The goal was to ensure easy and efficient access to relevant legal information for users 📰📜.
