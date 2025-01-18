@@ -58,7 +58,6 @@ By promoting **genuine connections** and reducing the influence of superficialit
 
 ---
 
-
 ### 💻 Current Focus
 
 - **DevOps**, **Docker**, and **DevOps** 🤖
@@ -67,69 +66,6 @@ By promoting **genuine connections** and reducing the influence of superficialit
 - Passionate about **entrepreneurship**, business strategies, and developing impactful solutions that drive growth and efficiency 💡
 
 I am constantly exploring new opportunities to create meaningful technological solutions, improve processes, and lead projects that can have a positive impact in both tech and business domains.
-
----
-
-## 📚 Education
-**MIT Academy of Engineering, Pune**  
-**Bachelor of Technology in Computer Engineering** — GPA: **8.1/10**  
-**Expected Graduation**: 2025
-
----
-
-## 🚀 Key Projects
-
-### **SocialGo: Discover, Connect, and Reveal**
-- **Nov 2023 — Jan 2024**
-- **Technologies**: Flutter | Socket.io | MongoDB | Express.js | Node.js | Firebase | Cloud Services
-- **Problem**: Traditional dating apps foster superficial connections, leading to a lack of meaningful engagement and unverified users.
-- **Solution**: SocialGo encourages **intentional connections** by promoting **anonymous 24-hour chats** before identity reveals.
-
----
-
-### **Farcon: Bridging the Gap Between Farmers and Consumers**
-- **Nov 2023 — Jan 2024**
-- **Technologies**: Flutter | MongoDB | Express.js | Node.js | Figma | Cloud Services
-- **Problem**: Vegetables take up to 7 days to reach customers, reducing freshness and increasing costs due to intermediaries.
-- **Solution**: Direct delivery from farmers to customers, providing fresh produce **15% cheaper** and reducing delivery times by up to **80%**.
-- **Key Features**:
-    - **User**: Browse products, order tracking, and payment gateway.
-    - **Admin**: Manage inventory and deliveries via map navigation.
-- **Commitment Rates**: 61% from farmers, 74% from users.
-
----
-
-### **ShopEz: Revolutionizing Shopping for Instagram Influencers**
-- **Feb 2024 — Mar 2024**
-- **Technologies**: Flutter | MongoDB | Express.js | Node.js | Figma | Cloud Services
-- **Problem**: Instagram influencers lack inventory management and sales tracking, forcing users to visit their page each time.
-- **Solution**: ShopEz enables influencers to list products and track sales, making the shopping experience seamless.
-- **Key Features**:
-    - **User**: Browse, track orders, and engage via likes.
-    - **Admin**: Real-time inventory management, sales analysis.
-
----
-
-## 🛠️ Skills
-- **Programming & Application Technologies**: Flutter, Dart, Express.JS, Node.JS, C++, Python, SQL, Apache Kafka, Socket.IO
-- **AI & Machine Learning**: TensorFlow, PyTorch, LLMs, NLP
-- **Frameworks & Tools**: MongoDB, MySQL, Figma, GitHub, RESTful APIs, Cloud Services
-
----
-
-## 🌱 Currently Learning
-- **Machine Learning** and **Large Language Models (LLMs)**
-- **Cloud Platforms** and **AI Technologies**
-
----
-
-## 💼 Experience
-
-### **E-CELL - MITAOE**
-- **Jan 2022 — Aug 2022**
-- **Role**: Led a technical team within the Entrepreneurship Cell, overseeing various projects and initiatives aimed at fostering innovation and entrepreneurial spirit.
-
----
 
 ## 📫 Contact Me
 - **Email**: [work.shivprasadrahulwad@gmail.com](mailto:work.shivprasadrahulwad@gmail.com)
