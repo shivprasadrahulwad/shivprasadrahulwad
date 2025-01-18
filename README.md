@@ -1,7 +1,7 @@
 ![Shivprasad Rahulwad (1)](https://github.com/user-attachments/assets/df6f0bc7-eea1-4313-84ac-2fa89f25ece2)
 <h1 align="center">Hi 👋, I'm shivprasad rahulwad</h1>
 
-<h3 align="center">I am an Android Developer specializing in Flutter, a framework that allows me to craft mobile applications with seamless, engaging user experiences. With a strong background in AI/ML, I am deeply interested in leveraging the power of artificial intelligence to create smarter and more efficient solutions..</h3>
+<h3 align="center">I am an software Developer specializing in Flutter, a framework that allows me to craft mobile applications with seamless, engaging user experiences. With a strong background in AI/ML, I am deeply interested in leveraging the power of artificial intelligence to create smarter and more efficient solutions..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivprasadrahulwad&label=Profile%20views&color=0e75b6&style=flat" alt="shivprasadrahulwad" /> </p>
 
