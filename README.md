@@ -61,9 +61,9 @@ By promoting **genuine connections** and reducing the influence of superficialit
 
 ### 💻 Current Focus
 
-- **Machine Learning (ML)** and **Large Language Models (LLMs)** 🤖
+- **DevOps**, **Docker**, and **DevOps** 🤖
 - Exploring **Cloud Platforms**, **AI** technologies, and **entrepreneurial opportunities** 🌐
-- Gaining expertise in **customer acquisition strategies**, building innovative solutions using **Kafka**, **Docker**, and **DevOps** ⚙️
+- Gaining expertise in **customer acquisition strategies**, building innovative solutions using **Machine Learning (ML)** and **Large Language Models (LLMs)** 🤖 ⚙️
 - Passionate about **entrepreneurship**, business strategies, and developing impactful solutions that drive growth and efficiency 💡
 
 I am constantly exploring new opportunities to create meaningful technological solutions, improve processes, and lead projects that can have a positive impact in both tech and business domains.
